@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+    h1 {
+    color: #444;
+    font-size: 24px;
+    position: relative;
+    margin: 0 -14px;
+    padding: 8px 0 8px 24px;
+    background: linear-gradient(#888,#aaa,#888);
+    border: 1px solid #bbb;
+    box-shadow: 0 0 0 1px #555;
+    text-shadow: 0 1px 1px #fff;
+    }
+
+    body {
+    background: #5b6a78;
+    }
+
+    div {
+    width: 80%;
+    margin: 0 auto;
+    padding: 14px;
+    background: #fff;
+    }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>
+            ビール検定を受験してきました
+        </h1>
+        <p>
+            京都から約1時間、京阪と奈良線を乗り継いでやってきたのが大阪商業大学。<br>
+            そこで、第8回ビール検定を受けてきました（下が画像です。）
+        </p>
+
+        <img src="069E2E58-FDCA-4C25-8893-BF6791CA6FD8.jpg" width="300" height="200"/> (将棋文化検定というのもあるのですね、注意書きを見ると棋士の方も来るのかな？）<br />
+
+        <p>
+            問題は簡単なものから、難しいものまで。<br />
+            東京オリンピックの公式サポーターってビール会社だと何だ。。。？？
+            ラグビーワールドカップはハイネケンだったはずだけど。。。<br />
+            日本で最初にビールについて言及された書籍ってなんだったっけ！<br />
+        </p>
+
+        <p>
+            のような、感じです。ドイツ語検定を受験した際に、よく学生が受ける英検と違い、多種多様な方が一つの部屋に固まることって<br />
+            なかなかないだろうなと思いましたが、ビール検定はそれ以上。<br />
+            カップルや夫婦、会社の同僚らしき人や、中には明らかに飲んできただろっていうくらい顔が赤い人まで！<br />
+        </p>
+
+        <p>
+            酒のすごさを知った日でもありました。。。
+        </p>
+
+        <p>
+            多分7割以上はいったでしょうから、３級は受かってるかな。次はウイスキー検定を頑張ろう。
+        </p>
+
+        <a href="ブログHP.html">トップへ</a>
+    </div>
+</body>
+</html>
